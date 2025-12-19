@@ -92,12 +92,12 @@ html, body {
   line-height: 1.6;
   color: #d1d1d1;
 }
-.login a {
+#buttom-login a {
   color: black;
   background-color: rgb(51, 238, 129);
   padding: 20px;  
 }
-.login a:hover {
+#buttom-login a:hover {
   color: white;
 }
 
