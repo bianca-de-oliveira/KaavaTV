@@ -1,4 +1,4 @@
-# KaavaTV
+# AniVerse
 
 Projeto pessoal de plataforma de streaming de animes desenvolvido com foco em front-end.
 
