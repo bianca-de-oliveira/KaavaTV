@@ -12,6 +12,8 @@ html, body {
   color: #ffffff;
 }
 
+/*  HEADER  */
+
 .header {
   position: fixed;
   top: 0;
@@ -33,12 +35,12 @@ html, body {
 }
 
 .logo {
-  
   font-size: 1.4rem;
   font-weight: 700;
 }
 
-/* Menu */
+/*  MENU  */
+
 .nav-links {
   list-style: none;
   display: flex;
@@ -53,8 +55,23 @@ html, body {
 }
 
 .nav-links a:hover {
-  color: rgb(249, 252, 92);
+  color: #33ee81; 
 }
+
+/* Botão Login */
+#button-login a {
+  background-color: #33ee81;
+  color: #0f0f0f;
+  padding: 12px 20px;
+  border-radius: 4px;
+  font-weight: 500;
+}
+
+#button-login a:hover {
+  color: #ffffff;
+}
+
+/*  HERO  */
 
 .hero {
   height: 845px;
@@ -71,7 +88,8 @@ html, body {
   background: linear-gradient(
     to right,
     rgba(0, 0, 0, 0.75),
-    rgba(0, 0, 0, 0.2));
+    rgba(0, 0, 0, 0.2)
+  );
   display: flex;
   align-items: center;
 }
@@ -92,14 +110,24 @@ html, body {
   line-height: 1.6;
   color: #d1d1d1;
 }
-#buttom-login a {
-  color: black;
-  background-color: rgb(51, 238, 129);
-  padding: 20px;  
+
+/*  MENSAGEM LOGIN  */
+
+#mensagem-login {
+  position: fixed;
+  top: 64px;
+  width: 100%;
+  text-align: center;
+  padding: 12px 0;
+  background-color: rgba(51, 238, 129, 0.95);
+  color: #0f0f0f;
+  font-size: 0.95rem;
+  font-weight: 500;
+  display: none;
+  z-index: 9;
 }
-#buttom-login a:hover {
-  color: white;
-}
+
+/*  FOOTER  */
 
 .footer {
   background-color: #0a0a0a;
