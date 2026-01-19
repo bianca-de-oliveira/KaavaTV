@@ -37,7 +37,8 @@ Desenvolver uma interface moderna e interativa que simule uma plataforma de stre
 * Estudar implementação futura de API
 
 ##  Preview (exemplo do layout)
-<img width="1919" height="905" alt="rebranding" src="https://github.com/user-attachments/assets/65c0eb81-bd44-44ec-965a-d6dcdcdd82a9" />
+<img width="1917" height="902" alt="Captura de tela 2026-01-19 173221" src="https://github.com/user-attachments/assets/d16b1940-fe59-42af-9bdf-7309663bd1c0" />
+
 
 
 
